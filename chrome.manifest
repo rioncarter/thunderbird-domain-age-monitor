@@ -1,0 +1,2 @@
+content     domainagechecker    content/
+overlay chrome://messenger/content/msgHdrViewOverlay.xul chrome://domainagechecker/content/domainagechecker-warn.xul

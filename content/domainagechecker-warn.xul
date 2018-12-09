@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<overlay id="domainagechecker-warn-overlay" 
+xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+ <script type="application/javascript" src="chrome://domainagechecker/content/overlay-warn.js"/>
+ <statusbar id="status-bar">
+ </statusbar>
+</overlay>
